@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+}
+
+body{
+    background: #fff;
+}
+
+h1, h2, h3, h4, h5, h6, p, pre{
+    font-family: 'Corbel';
+    cursor: default;
+}
+
+a{
+    font-family: 'Corbel';
+    cursor: hand;
+}
+
+table tr th, td{
+    font-family: 'Calibri';
+    cursor: default;
+}
+
+.navbar .navbar-collapse
+ul li .btn{
+    margin-top: -1px;
+    font-family: 'Corbel'
+}
+
+.cardlink{
+    color: #000;
+    font-weight: bolder;
+    font-size: 14px;
+}
+
+.cardlink:hover{
+    background: #d4fdc6;
+    color: #3d6e2d;
+}
+
+.footer-text{
+    font-family: 'Calibri';
+    font-size: 12px;
+}
+
+.navbar .navbar-collapse
+.navbar-text{
+    font-size: 14px;
+    font-weight: bold;
+}
+
+.navbar .navbar-collapse
+.navbar-text .nt-1{
+    font-size: 12px;
+    font-weight: lighter;
+}
+
+.logointro{
+    margin-top: -50px;
+    min-height: 50px;
+}
+
+.carousel .carousel-inner
+.carousel-item .carousel-caption h5{
+    font-size: 50px;
+    font-weight: bolder;
+}
+
+.carousel .carousel-inner
+.carousel-item .carousel-caption #bv,#bb{
+    text-shadow: 5px 5px 5px #222;
+}
+
+.carousel .carousel-inner
+.carousel-item .carousel-caption p{
+    font-size: 20px;
+    font-weight: bolder;
+}
